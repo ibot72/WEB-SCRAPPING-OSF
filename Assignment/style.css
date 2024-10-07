@@ -1,6 +1,7 @@
 body {
     font-family: Arial, Helvetica;
-    background-color:#f5f5f5;
+    background-color:rgb(229, 235, 218);
+    background-image: url("final\ work.jpg");
     margin: 0;
     padding: 0;
     display: flex;
@@ -10,6 +11,7 @@ body {
 }
 .contact-form {
     background-color: #fff;
+    background-image: ;
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 5px 15px rgb(241, 40, 13) ;
